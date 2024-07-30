@@ -1,1 +1,20 @@
-
+{
+  "invite": "Agrega %name% a la pantalla de inicio",
+  "helper": {
+    "introduction": "Para instalar esta aplicación y disfrutar de una experiencia mejorada",
+    "ios": {
+      "label": "Añadir a pantalla de inicio"
+    },
+    "firefox": {
+      "label": "Instalar"
+    },
+    "samsung": {
+      "label_1": "Añade la página...",
+      "label_2": "Pantalla de inicio"
+    }
+  },
+  "press_on": "toque en",
+  "then": "entonces",
+  "and_then": "y luego",
+  "select": "seleccionar"
+}
